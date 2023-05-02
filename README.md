@@ -7,6 +7,7 @@ To get started, simply clone or download this repository and open the Jupyter No
 ### Notebooks 📗
 The following is a list of Jupyter Notebooks currently available in this repository:
 * 00 - Working with PDFs using PyPDF.
+* 01 - Getting started with spaCy.
 
 We will be adding new notebooks to this repository in regular intervals, so be sure to check back often for new NLP tools and concepts.
 
